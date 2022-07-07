@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prafultandekar.github.io/csb-u8qc9t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://prafultandekar.github.io/csb-u8qc9t/static/js/main.12457ebb.chunk.js",
+    "main.js.map": "https://prafultandekar.github.io/csb-u8qc9t/static/js/main.12457ebb.chunk.js.map",
+    "runtime-main.js": "https://prafultandekar.github.io/csb-u8qc9t/static/js/runtime-main.7c793d7d.js",
+    "runtime-main.js.map": "https://prafultandekar.github.io/csb-u8qc9t/static/js/runtime-main.7c793d7d.js.map",
+    "static/js/2.43380b95.chunk.js": "https://prafultandekar.github.io/csb-u8qc9t/static/js/2.43380b95.chunk.js",
+    "static/js/2.43380b95.chunk.js.map": "https://prafultandekar.github.io/csb-u8qc9t/static/js/2.43380b95.chunk.js.map",
+    "index.html": "https://prafultandekar.github.io/csb-u8qc9t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://prafultandekar.github.io/csb-u8qc9t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.43380b95.chunk.js.LICENSE.txt": "https://prafultandekar.github.io/csb-u8qc9t/static/js/2.43380b95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c793d7d.js",
+    "static/js/2.43380b95.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.12457ebb.chunk.js"
+  ]
+}
